@@ -1,3 +1,28 @@
+https://techstar-reactapp.netlify.app/
+I created this project using React, JavaScript, and SCSS. It's a straightforward practice app with route navigation—a simple React application.
+
+
+
+...................................................................................
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
